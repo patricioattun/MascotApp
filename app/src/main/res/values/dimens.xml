@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevacion">4dp</dimen>
+    <dimen name="topMargin">20dp</dimen>
+    <dimen name="leftMargin">10dp</dimen>
+    <dimen name="radio">4dp</dimen>
+    <dimen name="nombre">20dp</dimen>
+
+    <dimen name="starw">100dp</dimen>
+    <dimen name="starh">30dp</dimen>
+    <dimen name="marginStar">90dp</dimen>
+
+
+
+</resources>
